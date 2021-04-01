@@ -6,10 +6,7 @@
 Git signs written in pure lua.
 
 
-<img src="https://raw.githubusercontent.com/lewis6991/media/main/nav.gif" width="450em"/><img src="https://raw.githubusercontent.com/lewis6991/media/main/stage.gif" width="450em"/>
-
-
-<img src="https://raw.githubusercontent.com/lewis6991/media/main/blame.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/lewis6991/media/main/gitsigns_actions.gif" width="450em"/><img src="https://raw.githubusercontent.com/lewis6991/media/main/gitsigns_blame.gif" width="450em"/>
 
 ## Status
 **WIP**
