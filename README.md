@@ -11,7 +11,7 @@ Hunk Navigation:
 
 Hunk Actions:
 
-<img src="https://raw.githubusercontent.com/lewis6991/media/main/nav.gif" width="600"/>
+<img src="https://raw.githubusercontent.com/lewis6991/media/main/stage.gif" width="600"/>
 
 Current line blame:
 
