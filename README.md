@@ -5,9 +5,17 @@
 
 Git signs written in pure lua.
 
-![](https://raw.githubusercontent.com/lewis6991/media/main/gitsigns_demo1.gif)
+Hunk Navigation:
+
+<img src="https://raw.githubusercontent.com/lewis6991/media/main/nav.gif" width="600"/>
+
+Hunk Actions:
+
+<img src="https://raw.githubusercontent.com/lewis6991/media/main/nav.gif" width="600"/>
+
 Current line blame:
-![](https://raw.githubusercontent.com/lewis6991/media/main/blame.gif)
+
+<img src="https://raw.githubusercontent.com/lewis6991/media/main/blame.gif" width="600"/>
 
 ## Status
 **WIP**
