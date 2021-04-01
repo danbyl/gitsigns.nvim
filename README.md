@@ -6,6 +6,8 @@
 Git signs written in pure lua.
 
 ![](https://raw.githubusercontent.com/lewis6991/media/main/gitsigns_demo1.gif)
+Current line blame:
+![](https://raw.githubusercontent.com/lewis6991/media/main/blame.gif)
 
 ## Status
 **WIP**
